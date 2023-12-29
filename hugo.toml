@@ -1,4 +1,4 @@
-baseURL = 'http://joannajzou.github.io/'
+baseURL = 'https://joannajzou.netlify.app/'
 languageCode = 'en-us'
 title = 'Joanna Zou'
 theme = 'introduction'
